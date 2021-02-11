@@ -1,0 +1,6 @@
+module GTDevTools {
+  umbrella header "GTDevTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
